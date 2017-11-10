@@ -1,3 +1,5 @@
+STATUS: This project is being actively developed, some features may not be fully implemented yet
+
 HTML5-rework contains two crucial components that provide a solid, minimal, and complete foundation for your next web project:
 
 1) A single page, style.html, detailing EVERY HTML5 block element (courtesy of [HTML5 Test Page](https://github.com/cbracco/html5-test-page))
